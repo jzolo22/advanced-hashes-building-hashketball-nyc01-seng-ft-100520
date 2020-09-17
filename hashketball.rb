@@ -10,7 +10,9 @@ def game_hash
           :show => , 
           :points => ,
           :rebounds => ,
-          
+          :assists => ,
+          :steals => ,
+          :blocks =>
           
         }, {}, {}],
     }
