@@ -7,7 +7,7 @@ def game_hash
         {
           :player_name => "Alan Anderson",
           :number => "0",
-          :show => "16", 
+          :shoe => "16", 
           :points => "22",
           :rebounds => ,
           :assists => ,
@@ -18,7 +18,7 @@ def game_hash
         {
           :player_name => ,
           :number => ,
-          :show => , 
+          :shoe => , 
           :points => ,
           :rebounds => ,
           :assists => ,
@@ -29,7 +29,7 @@ def game_hash
         {
           :player_name => ,
           :number => ,
-          :show => , 
+          :shoe => , 
           :points => ,
           :rebounds => ,
           :assists => ,
@@ -41,7 +41,7 @@ def game_hash
         {
           :player_name => ,
           :number => ,
-          :show => , 
+          :shoe => , 
           :points => ,
           :rebounds => ,
           :assists => ,
@@ -54,7 +54,7 @@ def game_hash
         {
           :player_name => ,
           :number => ,
-          :show => , 
+          :shoe => , 
           :points => ,
           :rebounds => ,
           :assists => ,
@@ -71,7 +71,7 @@ def game_hash
         {
           :player_name => ,
           :number => ,
-          :show => , 
+          :shoe => , 
           :points => ,
           :rebounds => ,
           :assists => ,
@@ -82,7 +82,7 @@ def game_hash
         {
           :player_name => ,
           :number => ,
-          :show => , 
+          :shoe => , 
           :points => ,
           :rebounds => ,
           :assists => ,
@@ -93,7 +93,7 @@ def game_hash
         {
           :player_name => ,
           :number => ,
-          :show => , 
+          :shoe => , 
           :points => ,
           :rebounds => ,
           :assists => ,
@@ -105,7 +105,7 @@ def game_hash
         {
           :player_name => ,
           :number => ,
-          :show => , 
+          :shoe => , 
           :points => ,
           :rebounds => ,
           :assists => ,
@@ -118,7 +118,7 @@ def game_hash
         {
           :player_name => ,
           :number => ,
-          :show => , 
+          :shoe => , 
           :points => ,
           :rebounds => ,
           :assists => ,
