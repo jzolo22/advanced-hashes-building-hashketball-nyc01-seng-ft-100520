@@ -52,7 +52,7 @@ def game_hash
         }, 
         
         {
-          :player_name => ,
+          :player_name => "Jason Terry",
           :number => ,
           :shoe => , 
           :points => ,
