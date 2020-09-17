@@ -14,7 +14,54 @@ def game_hash
           :steals => ,
           :blocks => ,
           :slam_dunks => 
-        }, {}, {}],
+        }, 
+        {
+          :player_name => ,
+          :number => ,
+          :show => , 
+          :points => ,
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks => 
+        }, 
+        {
+          :player_name => ,
+          :number => ,
+          :show => , 
+          :points => ,
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks => 
+        }, 
+        
+        {
+          :player_name => ,
+          :number => ,
+          :show => , 
+          :points => ,
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks => 
+          
+        }, 
+        
+        {
+          :player_name => ,
+          :number => ,
+          :show => , 
+          :points => ,
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks => 
+        }
     }
     
     :away => {
