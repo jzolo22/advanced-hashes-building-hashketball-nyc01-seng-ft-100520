@@ -39,7 +39,7 @@ def game_hash
         }, 
         
         {
-          :player_name => ,
+          :player_name => "Mason Plumlee",
           :number => ,
           :shoe => , 
           :points => ,
