@@ -7,6 +7,9 @@ def game_hash
         {
           :player_name => ,
           :number => ,
+          :show => , 
+          :points => ,
+          :rebounds => ,
           
           
         }, {}, {}],
